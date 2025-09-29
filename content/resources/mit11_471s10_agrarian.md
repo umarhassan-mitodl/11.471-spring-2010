@@ -7,6 +7,8 @@ description: 'Article provided as a suggested reading for the course: Tendler, J
 file: /courses/11-471-targeting-the-poor-local-economic-development-in-developing-countries-spring-2010/78fbd6c7550a3ec1f2d80b02bb6a52da_MIT11_471S10_Agrarian.pdf
 file_size: 3102238
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
