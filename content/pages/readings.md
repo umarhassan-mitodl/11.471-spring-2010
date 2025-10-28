@@ -31,11 +31,11 @@ No readings
 The context: the state and economic development
 {{< tdclose >}}{{< tdopen >}}
 
-Evans, Peter. "The Eclipse of the State? Reflections on Stateness in an Era of Globalization." *World Politics* 50 (1997): 62-87. ([PDF - 5.3MB](http://www.columbia.edu/itc/sipa/S6800/courseworks/world_pol_evans.pdf))
+Evans, Peter. "The Eclipse of the State? Reflections on Stateness in an Era of Globalization." *World Politics* 50 (1997): 62-87. ({{% resource_link "9ed45c1f-98a3-46e4-a470-e38a05a7b295" "PDF - 5.3MB" %}})
 
-Bruton, Henry. "A Reconsideration of Import Substitution." *Journal of Economic Literature* 36 (1998): 903-936. ([PDF](http://www.jstor.org/stable/2565125))
+Bruton, Henry. "A Reconsideration of Import Substitution." *Journal of Economic Literature* 36 (1998): 903-936. ({{% resource_link "c2be3587-2aad-46ea-b170-3f1acf3f3d24" "PDF" %}})
 
-Bardhan, Pranab. "[What Makes a Miracle? Some Myths about the Rise of China and India](http://www.bostonreview.net/pranab-bardhan-what-makes-a-miracle-rise-of-india-and-china)." *Boston Review*, January / February, 2008.
+Bardhan, Pranab. "{{% resource_link "8c3167e0-a87e-4a73-945c-fd3f4b677797" "What Makes a Miracle? Some Myths about the Rise of China and India" %}}." *Boston Review*, January / February, 2008.
 
 Huang, Yasheng. "China Could Learn from India." *Kantipur Daily*, February 2, 2006.
 
@@ -53,7 +53,7 @@ Saavedra-Chanduvi, Jaime. "The Informal Sector and the State: Institutions, Ineq
 
 ### Recommended
 
-Greenhouse, Steven. "[Waging War, From Wall Street to Corner Grocery; Beyond the High-Profile Cases, Spitzer Helps Low-Wage Workers](http://www.nytimes.com/2004/01/21/nyregion/waging-war-wall-street-corner-grocery-beyond-high-profile-cases-spitzer-helps.html?scp=1&sq=&st=nyt&pagewanted=1)." *The New York Times*, January 21, 2004, Section A, p. 25.
+Greenhouse, Steven. "{{% resource_link "804b8c8c-ab9a-46f6-a071-33615aebc460" "Waging War, From Wall Street to Corner Grocery; Beyond the High-Profile Cases, Spitzer Helps Low-Wage Workers" %}}." *The New York Times*, January 21, 2004, Section A, p. 25.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -61,7 +61,7 @@ Greenhouse, Steven. "[Waging War, From Wall Street to Corner Grocery; Beyond the
  
 {{< tdclose >}}{{< tdopen >}}
 
-Maloney, William. "[Informality Revisited](http://dx.doi.org/10.1016/j.worlddev.2004.01.008)." *World Development* 32, no. 7 (2004): 1159-1178.
+Maloney, William. "{{% resource_link "f537e584-a0a2-4f3c-9dff-31d302d06539" "Informality Revisited" %}}." *World Development* 32, no. 7 (2004): 1159-1178.
 
 Peattie, Lisa. "What is to be Done With the Informal Sector? A Case Study of Shoe Manufacturing in Colombia." In *Towards a Political Economy of Urbanization*. Edited by Helen Safa. New Delhi, India: Oxford University Press, 1982, pp. 208-232. ISBN: 9780195613070.
 
@@ -69,7 +69,7 @@ Peattie, Lisa. "What is to be Done With the Informal Sector? A Case Study of Sho
 
 Perry, Guillermo, William Maloney, Omar Arias, Pablo Fajnzylber, Andrew Mason, and Jaime Saavedra-Chanduvi. *Informality: Exit and Exclusion*. Washington, DC: The World Bank, 2007, pp. 147-164 to "Cross country evidence…," and pp. 175-177. ISBN: 9780821370926.
 
-Galli, Rossana, and David Kucera. "[Labor Standards and Informal Employment in Latin America](http://dx.doi.org/10.1016/j.worlddev.2003.11.005)." *World Development* 32, no. 5 (2004): 809-828.
+Galli, Rossana, and David Kucera. "{{% resource_link "fb6398c9-78b4-49f0-b244-cfecf62f65c6" "Labor Standards and Informal Employment in Latin America" %}}." *World Development* 32, no. 5 (2004): 809-828.
 
 Kuruvilla, Sarosh, and Bryan Mundell. "Introduction." In *Colonialism, Nationalism and the Institutionalization of Industrial Relations in the Third World*. Edited by Sarosh Kuruvilla and Bryan Mundell. Stamford, CT: JAI Press, 1999. ISBN: 9780762304967.
 
@@ -93,7 +93,7 @@ Meyer, John, and Brian Rowan. "Institutionalized Organizations: Formal Structure
 
 Joshi, Anu. "Public Sector Unions and Policy Reform: The Case of Joint Forest Management in West Bengal." Draft article. Brighton, UK: University of Sussex, Centre for the Future State, Institute of Development Studies, 2006.
 
-Crook, Richard, and Joseph Ayee. "[Urban Service Partnerships, 'Street-Level Bureaucrats' and Environmental Sanitation in Mumasi and Accra, Ghana: Coping with Organisational Change in the Public Bureaucracy](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-7679.2006.00313.x)." *Development Policy Review* 24, no. 1 (2006): 51-73.
+Crook, Richard, and Joseph Ayee. "{{% resource_link "6a8f554d-4f84-4b70-ad5e-b8e0d3773e39" "Urban Service Partnerships, 'Street-Level Bureaucrats' and Environmental Sanitation in Mumasi and Accra, Ghana: Coping with Organisational Change in the Public Bureaucracy" %}}." *Development Policy Review* 24, no. 1 (2006): 51-73.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -103,15 +103,15 @@ Microcredit organizations
 
 Goetz, Anne Marie. "Local Heroes? How Field Workers Determine Policy Outcomes." In *Women Development Workers: Implementing Rural Credit Programmes in Bangladesh*. New Delhi, India: Sage Press, 2001. ISBN: 9789840516100.
 
-Jain, Pankaj, and Mick Moore. "[What Makes Micro-credit Programmes Effective? Fashionable Fallacies and Workable Realities](https://opendocs.ids.ac.uk/opendocs/ds2/stream/?#/documents/13217/page/1)." Brighton, UK: Institute of Development Studies, IDS Working Paper 177, November 2002.
+Jain, Pankaj, and Mick Moore. "{{% resource_link "cc4e0de5-c0f5-48ad-908d-62ecd8d47e31" "What Makes Micro-credit Programmes Effective? Fashionable Fallacies and Workable Realities" %}}." Brighton, UK: Institute of Development Studies, IDS Working Paper 177, November 2002.
 
 ### Recommended
 
-Dugger, Celia. "[Debate Stirs Over Tiny Loans for World's Poorest](http://www.nytimes.com/2004/04/29/international/asia/29MICR.html)." *The New York Times*, April 29, 2004, Section 1, p. 1.
+Dugger, Celia. "{{% resource_link "44069699-aaac-45d4-83df-a859fcd88768" "Debate Stirs Over Tiny Loans for World's Poorest" %}}." *The New York Times*, April 29, 2004, Section 1, p. 1.
 
 Armendáriz, Beatriz, and Jonathan Morduch. "Microfinance: Where Do We Stand?" In *Financial Development and Economic Growth: Explaining the Links*. Edited by Charles Goodhart. Basingstoke, UK: Palgrave Macmillan, 2005. ISBN: 9781403920669.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262014106) Armendáriz de Aghion, Beatriz and Jonathan Murduch. *The Economics of Microfinance*. Cambridge, MA: MIT Press, 2005. ISBN: 9780262014106.
+{{% resource_link "b56e31a0-2668-4540-8f26-0691e3d1f930" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Armendáriz de Aghion, Beatriz and Jonathan Murduch. *The Economics of Microfinance*. Cambridge, MA: MIT Press, 2005. ISBN: 9780262014106.
 
 Morduch, Jonathan. "Microfinance Without Trade-Offs." Revised version of a keynote address delivered at the 3rd International Conference on Finance for Growth and Poverty Reduction, held at the University of Manchester, April 10, 2002. Draft dated August 26, 2002, sent by the author.
 
@@ -121,7 +121,7 @@ Morduch, Jonathan. "Microfinance Without Trade-Offs." Revised version of a keyno
 Agricultural organizations
 {{< tdclose >}}{{< tdopen >}}
 
-Bianchi, Tito. "The Agronomists and Land Improvement: The Meeting of Politics and Technocracy." [*Redistribution Within a Democratic Society: The "Finished Business" of the Italian Agrarian Reform*](http://dspace.mit.edu/handle/1721.1/29260). PhD dissertation, Department of Urban Studies and Planning, Massachusetts Institute of Technology, 2002. Abstract (p. 3), Introduction (pp. 9-14 sufficient); Chapter 5 (pp. 159-185).
+Bianchi, Tito. "The Agronomists and Land Improvement: The Meeting of Politics and Technocracy." {{% resource_link "eb90ccc2-e1a1-4ca2-98b8-fce9049f51be" "*Redistribution Within a Democratic Society: The \"Finished Business\" of the Italian Agrarian Reform*" %}}. PhD dissertation, Department of Urban Studies and Planning, Massachusetts Institute of Technology, 2002. Abstract (p. 3), Introduction (pp. 9-14 sufficient); Chapter 5 (pp. 159-185).
 
 Bunker, Stephan. "Collaboration, Competition, and Corruption in Colonization Projects." In *Underdeveloping the Amazon*. Chicago, IL: University of Chicago Press, 1990, pp. 180-198. ISBN: 9780226080321.
 
@@ -149,13 +149,13 @@ Ban, Carolyn, and Mark Huddleston. "Exporting Administrative Reform to Eastern E
 Labor inspectors
 {{< tdclose >}}{{< tdopen >}}
 
-Pfeffer, Jeffrey. "[Human Resources from an Organizational Behavior Perspective: Some Paradoxes](http://www.aeaweb.org/articles.php?doi=10.1257/jep.21.4.115)." *Journal of Economic Perspectives* 21, no. 4 (2007): 115-134.
+Pfeffer, Jeffrey. "{{% resource_link "f20b795b-c3b0-4dff-8ebe-564db8626eb2" "Human Resources from an Organizational Behavior Perspective: Some Paradoxes" %}}." *Journal of Economic Perspectives* 21, no. 4 (2007): 115-134.
 
-Pires, Roberto. "Promoting Sustainable Compliance: Styles of Labour Inspection and Compliance Outcomes in Brazil." *International Labour Review* 147, no. 2-3, 2008. ([PDF](https://www.researchgate.net/publication/227715928_Promoting_Sustainable_Compliance_Styles_of_Labour_Inspection_and_Compliance_Outcomes_in_Brazil))
+Pires, Roberto. "Promoting Sustainable Compliance: Styles of Labour Inspection and Compliance Outcomes in Brazil." *International Labour Review* 147, no. 2-3, 2008. ({{% resource_link "8b47737a-2061-4836-81d2-9e5bbf4ee34e" "PDF" %}})
 
 ### Recommended
 
-Piore, Michael, and Andrew Schrank. "[Toward Managed Flexibility: The Revival of Labour Inspection in the Latin World](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1564-913X.2008.00021.x)." *International Labour Review* 147, no. 1 (2008): 1-23.
+Piore, Michael, and Andrew Schrank. "{{% resource_link "34acffc8-e059-455e-b56e-5be21474d959" "Toward Managed Flexibility: The Revival of Labour Inspection in the Latin World" %}}." *International Labour Review* 147, no. 1 (2008): 1-23.
 
 Schrank, Andrew. "Professionalization and Probity in the Patrimonial State: Labor Law Enforcement in the Dominican Republic." Albuquerque, NM: University of New Mexico, Department of Sociology. (Submitted for publication).
 
@@ -179,7 +179,7 @@ Hirschman, Albert O. "Linkages." In *The New Palgrave Economic Development*. Edi
 
 Ranis, Gustav, and Frances Stewart. "Rural Linkages in the Philippines and Taiwan." In *Macro-policies for Appropriate Technology in Developing Countries*. Edited by Frances Stewart. Boulder, CO: Westview Press, 1987, pp. 140-191. ISBN: 9780813373034.
 
-Kelegama, Saman, and Fritz Foley. "[Impediments to Promoting Backward Linkages from the Garment Industry in Sri Lanka](http://dx.doi.org/10.1016/S0305-750X%2899%2900069-8)." *World Development* 27 (1999): 1445-1460.
+Kelegama, Saman, and Fritz Foley. "{{% resource_link "3f0282d5-59a0-42ae-9a86-05b8b2a3b1c5" "Impediments to Promoting Backward Linkages from the Garment Industry in Sri Lanka" %}}." *World Development* 27 (1999): 1445-1460.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -189,15 +189,15 @@ The "newly-discovered" rural economy
 
 Haggblade, Steven, Peter Hazell, and Thomas Reardon. "Research Perspectives and Prospectives on the Rural Nonfarm Economy." Chapter 16, including the table "Common Myths About the Rural Nonfarm Economy (RNFE)." In *Transforming the Rural Nonfarm Economy: Opportunities and Threats in the Developing World*. Baltimore, MD: Johns Hopkins University Press, 2007. ISBN: 9780801886645.
 
-Eicher, Carl. "Flashback: Fifty Years of Donor Aid to African Agriculture." In *Successes in African Agriculture: Building for the Future*. Edited by Steve Haggblade, et al. Baltimore, MD: Johns Hopkins University Press, 2006. ([PDF](https://rmportal.net/framelib/donor-aid-to-african-agriculture.pdf))
+Eicher, Carl. "Flashback: Fifty Years of Donor Aid to African Agriculture." In *Successes in African Agriculture: Building for the Future*. Edited by Steve Haggblade, et al. Baltimore, MD: Johns Hopkins University Press, 2006. ({{% resource_link "cf536c59-1e63-422d-be8d-28b82cd6e6e5" "PDF" %}})
 
 ### Recommended
 
-Biggs, Stephen. "[Learning from the Positive to Reduce Rural Poverty: Institutional Innovations in Agricultural and Natural Resources Research and Development](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=1589904)." Paper prepared for the Impact Assessment Workshop organized by the CGIAR Systemwide Program on Participatory Research and Gender Analysis for Technology Development and Institutional Innovation (PRGA) and the International Maize and Wheat Improvement Center (CIMMYT), October 19-21, 2005 at CIMMYT Headquarters, Mexico.
+Biggs, Stephen. "{{% resource_link "048803a7-6d48-475a-a988-208a55986fd8" "Learning from the Positive to Reduce Rural Poverty: Institutional Innovations in Agricultural and Natural Resources Research and Development" %}}." Paper prepared for the Impact Assessment Workshop organized by the CGIAR Systemwide Program on Participatory Research and Gender Analysis for Technology Development and Institutional Innovation (PRGA) and the International Maize and Wheat Improvement Center (CIMMYT), October 19-21, 2005 at CIMMYT Headquarters, Mexico.
 
-———. "[The Lost 1990s? Personal Reflections on a History of Participatory Technology Development](http://www.informaworld.com/smpp/section?content=a794969178&fulltext=713240928)." *Development in Practice* 18, no. 4-5 (2008): 489-505.
+———. "{{% resource_link "20ba7f29-9b9d-4707-bdb0-35ff3ba496f3" "The Lost 1990s? Personal Reflections on a History of Participatory Technology Development" %}}." *Development in Practice* 18, no. 4-5 (2008): 489-505.
 
-Spielman, David, and R. Pandya-Lorch. "[Millions Fed: Proven Successes in Agricultural Development](http://www.ifpri.org/publication/millions-fed)." International Food Policy Research Institute (IFPRI), 2009. Chapter 1: Fifty Years of Progress. ISBN: 9780896296619.
+Spielman, David, and R. Pandya-Lorch. "{{% resource_link "5f4518c6-b10a-4182-8cae-bbf46ae3bf95" "Millions Fed: Proven Successes in Agricultural Development" %}}." International Food Policy Research Institute (IFPRI), 2009. Chapter 1: Fifty Years of Progress. ISBN: 9780896296619.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -207,17 +207,17 @@ Paths to effective (and non-effective) public support
 
 Gotsch, Carl. "Agricultural Mechanization in the Punjab: Some Comparative Observations from India and Pakistan." In *Land Tenure and Peasant in South Asia*. Edited by Robert Frykenburg. New Delhi: Orient Longman, 1977.
 
-Tendler, Judith. "[Tales of Dissemination in Small-farm Agriculture: Lessons for Institution Builders](http://dx.doi.org/10.1016/0305-750X%2893%2990092-N)." *World Development* 21 (October 1994): 1567-1582.
+Tendler, Judith. "{{% resource_link "5c62c511-0023-4fb1-adc6-74cdaee6f0bc" "Tales of Dissemination in Small-farm Agriculture: Lessons for Institution Builders" %}}." *World Development* 21 (October 1994): 1567-1582.
 
 ### Recommended
 
-Humphrey, John. "[Private Standards, Small Farmers, and Donor Policy: EUREPGAP in Kenya](https://opendocs.ids.ac.uk/opendocs/handle/123456789/4167)." *Working Paper* 30. Institute of Development Studies at Sussex (U.K.), July 2008.
+Humphrey, John. "{{% resource_link "66bb0d0e-4e7b-464e-804d-fecd0a3c30a1" "Private Standards, Small Farmers, and Donor Policy: EUREPGAP in Kenya" %}}." *Working Paper* 30. Institute of Development Studies at Sussex (U.K.), July 2008.
 
-Gotsch, Carl. "[Technical Change and the Distribution of Income in Rural Areas](http://www.jstor.org/stable/1238721)." *American Journal of Agricultural Economics* 54 (May 1972): 326-341.
+Gotsch, Carl. "{{% resource_link "9b3ba074-4bd5-401c-b5fb-de29ba17ba70" "Technical Change and the Distribution of Income in Rural Areas" %}}." *American Journal of Agricultural Economics* 54 (May 1972): 326-341.
 
-Dugger, Cecilia. "[In Africa, Prosperity From Seeds Falls Short](http://www.nytimes.com/2007/10/10/world/africa/10rice.html)." *New York Times*, October 10, 2007.
+Dugger, Cecilia. "{{% resource_link "094841b5-4539-4a6e-b5ba-ee3a255ed764" "In Africa, Prosperity From Seeds Falls Short" %}}." *New York Times*, October 10, 2007.
 
-Finan, Timothy. "[Market Relationships and Market Performance in Northeast Brazil](http://www.jstor.org/stable/645514)." *American Ethnologist 15 (1988): 694-709.*
+Finan, Timothy. "{{% resource_link "4142c9a3-a56e-4bc4-bba0-f3334b15cc82" "Market Relationships and Market Performance in Northeast Brazil" %}}." *American Ethnologist 15 (1988): 694-709.*
 
 Moss, Daniel. "Why Aren't We Looking at Lessons about Producers-Buyers Relationship and Niche Markets in Non-Export Cases? Farmers and Wholesalers in El Salvador's Central Wholesale Market." Master's Thesis, Department of Urban Studies and Planning, Massachusetts Institute of Technology, 2000.
 
@@ -229,19 +229,19 @@ Moss, Daniel. "Why Aren't We Looking at Lessons about Producers-Buyers Relations
  
 {{< tdclose >}}{{< tdopen >}}
 
-Mead, Donald, and Carl Liedholm. "[The Dynamics of Micro and Small Enterprises in Developing Countries](http://dx.doi.org/10.1016/S0305-750X%2897%2910010-9)." *World Development* 26 (1998): 61-74.
+Mead, Donald, and Carl Liedholm. "{{% resource_link "45927562-8b26-4506-8919-05cc53e24acb" "The Dynamics of Micro and Small Enterprises in Developing Countries" %}}." *World Development* 26 (1998): 61-74.
 
 Fajnzylber, Pablo. "Informality, Productivity, and the Firm." In *Informality: Exit and Exclusion*. By Guillermo Perry, William Maloney, Omar Arias, Pablo Fajnzylber, Andrew Mason, and Jaime Saavedra-Chanduvi. Washington, DC: The World Bank, 2007. ISBN: 9780821370926. Required: pp. 147-164 up to "Cross-country evidence…,"and pp. 174-177; rest optional.
 
 ### Recommended
 
-Jenkins, Rhys. "[Globalisation and Employment: Working for the Poor?](https://archive.ids.ac.uk/eldis/document/A57816.html)" *Insights: Development Research* no. 47 (June 2003): 1-2.
+Jenkins, Rhys. "{{% resource_link "8b92fd2f-b313-4b37-b978-13152941f485" "Globalisation and Employment: Working for the Poor?" %}}" *Insights: Development Research* no. 47 (June 2003): 1-2.
 
-Lepenies, Philipp. "[Exit, Voice, and Vouchers: Using Vouchers to Train Microentrepreneurs: Observations from the Paraguayan Voucher Scheme.](http://dx.doi.org/10.1016/j.worlddev.2003.10.006)" *World Development* 32, no. 4 (2004): 713-724.
+Lepenies, Philipp. "{{% resource_link "820096c3-e717-4d72-8e49-f21a7a397db8" "Exit, Voice, and Vouchers: Using Vouchers to Train Microentrepreneurs: Observations from the Paraguayan Voucher Scheme." %}}" *World Development* 32, no. 4 (2004): 713-724.
 
-Ananth Pur, Kripa and Mick Moore. "[Ambiguous Institutions: Traditional Governance and Local Democracy in Rural India](https://assets.publishing.service.gov.uk/media/57a08be8ed915d3cfd001026/Wp282.pdf)." IDS Working Paper #282. Brighton, UK: Institute of Development Studies at the University of Sussex, 2007.
+Ananth Pur, Kripa and Mick Moore. "{{% resource_link "f3b0e125-b7e9-47ef-8336-8235398d4aa6" "Ambiguous Institutions: Traditional Governance and Local Democracy in Rural India" %}}." IDS Working Paper #282. Brighton, UK: Institute of Development Studies at the University of Sussex, 2007.
 
-Ananth Pur, Kripa. "[Rivalry or Synergy? Formal and Informal Local Governance in Rural India](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1467-7660.2007.00417.x)." *Development and Change* 38, no. 3 (2007): 401-421.
+Ananth Pur, Kripa. "{{% resource_link "b0ff71d4-3aab-478a-9117-517122035a28" "Rivalry or Synergy? Formal and Informal Local Governance in Rural India" %}}." *Development and Change* 38, no. 3 (2007): 401-421.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -251,17 +251,17 @@ Small-firms, employment, and political economy
 
 Brown, Charles, James Hamilton, and James Medoff. "Images of Large and Small Employers," "The Economic Backdrop," "Generating New Jobs," "Wages: Bigger Means More," "Who Benefits?" and "A Fuller Picture." In *Employers Large and Small*. Cambridge, MA: Harvard University Press, 1990. ISBN: 9780674251625. (Chapters 2-5 optional).
 
-Tendler, Judith. "Small Firms, the Informal Sector, and the Devil's Deal." *IDS Bulletin* (Institute of Development Studies at Sussex) 33 (July 2002). ([PDF](http://www.oecd.org/dataoecd/43/41/2489858.pdf))
+Tendler, Judith. "Small Firms, the Informal Sector, and the Devil's Deal." *IDS Bulletin* (Institute of Development Studies at Sussex) 33 (July 2002). ({{% resource_link "daa0845e-2b82-4570-94e0-001b68f40417" "PDF" %}})
 
-Andrews, Edmund. "[Where Do the Jobs Come From?](http://www.nytimes.com/2004/09/21/business/businessspecial/21ANDR.html)" *The New York Times*, September 21, 2004, Section E, p. 1.
+Andrews, Edmund. "{{% resource_link "a493652f-2d2b-4f3c-b9cc-c4ac26a11620" "Where Do the Jobs Come From?" %}}" *The New York Times*, September 21, 2004, Section E, p. 1.
 
 ### Recommended
 
-Gibson, Edward. "The Populist Road to Market Reform: Policy and Electoral Coalitions in Mexico and Argentina." *World Politics* 49 (April 1997): 339-370. ([PDF](http://faculty.wcas.northwestern.edu/~gibson/Edward_L._Gibson/Publications_files/The%20Populist%20Road%20to%20Market%20Reform.pdf))
+Gibson, Edward. "The Populist Road to Market Reform: Policy and Electoral Coalitions in Mexico and Argentina." *World Politics* 49 (April 1997): 339-370. ({{% resource_link "cf06fcfd-ee6c-462b-b7a9-3e79c206bfe0" "PDF" %}})
 
 Berger, Suzanne. "The Uses of the Traditional Sector in Italy: Why Declining Classes Survive." In *The Petite Bourgeoisie*. Edited by Frank Bechafer and Brian Elliot. New York, NY: Saint Martin's Press, 1981, pp. 71-89. ISBN: 9780333350720.
 
-Criscuolo, Alberto. "[Artisan Associations and Small Business Development in the 'Third' Italy](http://dspace.mit.edu/handle/1721.1/49802)." Master's Thesis, Department of Urban Studies and Planning, Massachusetts Institute of Technology, 2002, pp. 3-4, 9-32, 112-134.
+Criscuolo, Alberto. "{{% resource_link "e5bbd9bb-2251-4439-95c6-2a74c92685e6" "Artisan Associations and Small Business Development in the 'Third' Italy" %}}." Master's Thesis, Department of Urban Studies and Planning, Massachusetts Institute of Technology, 2002, pp. 3-4, 9-32, 112-134.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **VI. Local economic development, political economy, and public support**
@@ -277,15 +277,15 @@ Guest Researcher: Mansueto F. de Almeida, Jr., Senior Researcher, Institute for 
 
 Almeida, Mansueto F. de Almeida, Jr. "Beyond Informality: Understanding the Dynamics of Public-Private Partnerships in Cluster Upgrading and Compliance in Brazil." Doctoral Colloquium Paper, MIT, Department of Urban Studies and Planning, 2010.
 
-Schneider, Ben. "[Elusive Synergy: Business-Government Relations and Development](http://www.jstor.org/stable/422108)." *Comparative Politics* 31 no. 1 (1998): 101-122.
+Schneider, Ben. "{{% resource_link "bb204cd2-c4e2-4de5-9ce0-2366e1fea266" "Elusive Synergy: Business-Government Relations and Development" %}}." *Comparative Politics* 31 no. 1 (1998): 101-122.
 
 ### Recommended
 
 Biddle, Jesse, and Vedat Milor. "Economic Governance in Turkey: Bureaucratic Capacity, Policy Networks, and Business Associations." In *Business and the State in Developing Countries*. Edited by Sylvia Maxfield and Ben Schneider. Ithaca, NY: Cornell University Press, 1997, pp. 277-310. ISBN: 9780801484063.
 
-Cammett, Melani. "[Business-Government Relations and Industrial Change: The Politics of 'Clustering' in Morocco and Tunisia](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2309684)." *World Development* 35, no. 11 (2007): 1889–903.
+Cammett, Melani. "{{% resource_link "1496ecdb-b3e3-4847-b08d-6b52f577951c" "Business-Government Relations and Industrial Change: The Politics of 'Clustering' in Morocco and Tunisia" %}}." *World Development* 35, no. 11 (2007): 1889–903.
 
-Schrank, Andrew. "[Entrepreneurship, Export Diversification, and Economic Reform: The Birth of a 'Developmental Community' in the Dominican Republic](http://www.jstor.org/stable/20072912)." *Comparative Politics* 38 (2005).
+Schrank, Andrew. "{{% resource_link "91c18e0f-4898-46a4-8a91-515cd02fa0cc" "Entrepreneurship, Export Diversification, and Economic Reform: The Birth of a 'Developmental Community' in the Dominican Republic" %}}." *Comparative Politics* 38 (2005).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -299,25 +299,25 @@ Guest Researcher: Salo Coslovsky, Assistant Professor of International Developme
 
 Coslovsky, Salo. "Economic Development Without Pre-requisites: How Bolivian Firms Displaced Brazilian Competitors and Dominated the Global Brazil-Nut Business." New York University, Wagner School, Forthcoming 2010.
 
-Doner, Richard, and Ben Schneider. ["Business Associations and Economic Development: Why Some Associations Contribute More than Others."](https://www.cambridge.org/core/journals/business-and-politics/article/abs/business-associations-and-economic-development-why-some-associations-contribute-more-than-others/80BFA7537971DEE48B0143A253103BB4) *Business and Politics* 3 (2000): 261-288.
+Doner, Richard, and Ben Schneider. {{% resource_link "2eb5c73d-25a9-4cfd-9e74-98f239c11433" "\"Business Associations and Economic Development: Why Some Associations Contribute More than Others.\"" %}} *Business and Politics* 3 (2000): 261-288.
 
-Cammett, Melani. "[Fat Cats and Self-Made Men: Globalization and the Paradoxes of Collective Action](http://www.jstor.org/stable/20072900)." *Comparative Politics* 37 (July 2005): 379-400.
+Cammett, Melani. "{{% resource_link "c299f675-dc45-435d-ac1f-695aac751896" "Fat Cats and Self-Made Men: Globalization and the Paradoxes of Collective Action" %}}." *Comparative Politics* 37 (July 2005): 379-400.
 
 ### Recommended
 
-Humphrey, John, and Hubert Schmitz. "[How Does Insertion in Global Value Chains Affect Upgrading in Industrial Clusters?](http://www.informaworld.com/smpp/content~content=a738552480~db=all)" *Regional Studies* 36 (2002): 1017-1027.
+Humphrey, John, and Hubert Schmitz. "{{% resource_link "a0ea3b18-80cc-439f-a31e-5560a7b59101" "How Does Insertion in Global Value Chains Affect Upgrading in Industrial Clusters?" %}}" *Regional Studies* 36 (2002): 1017-1027.
 
-Schmitz, Hubert, and Bernard Musyck. "[Industrial Districts in Europe: Policy Lessons for Developing Countries?](http://dx.doi.org/10.1016/0305-750X%2894%2990060-4)" *World Development* 22 (June 1994): 889-910.
+Schmitz, Hubert, and Bernard Musyck. "{{% resource_link "baf7cf4d-5e12-4e1c-b108-b92eb0556ade" "Industrial Districts in Europe: Policy Lessons for Developing Countries?" %}}" *World Development* 22 (June 1994): 889-910.
 
 Kaplinsky, Raphael. "Globalisation and Unequalisation: What Can Be Learned from Value Chain Analysis?" In *Globalisation and Trade*. Edited by Oliver Morrissey and Igor Filatotchev. London, UK: Routledge, 2001. ISBN: 9780714651590.
 
 Schmitz, Hubert. "Globalized Localities: Introduction." In *Local Enterprises in the Global Economy: Issues of Governance and Upgrading*. Edited by Hubert Schmitz. Northampton, MA: Edward Elgar, 2004, pp.1-19. ISBN: 9781845421922.
 
-Nadvi, Khalid, and Gerhard Halder. "\[Local Clusters in Global Value Chains: Exploring Dynamic Linkages Between Germany and Pakistan\]([http://dx.doi.org/10.1080/08985620500247785](http://dx.doi.org/10.1080/08985620500247785) )." *Entrepreneurship & Regional Development* 17 (2005): 339-363.
+Nadvi, Khalid, and Gerhard Halder. "\[Local Clusters in Global Value Chains: Exploring Dynamic Linkages Between Germany and Pakistan\]({{% resource_link "a9c8b82a-c44d-4ba3-97fa-4fadf658babc" "http://dx.doi.org/10.1080/08985620500247785" %}} )." *Entrepreneurship & Regional Development* 17 (2005): 339-363.
 
 Hudson, R. "Institutional Change, Cultural Transformation, and Economic Regeneration: Myths and Realities from Europe's Old Industrial Areas." In *Globalisation, Institutions, and Regional Development in Europe*. Edited by Ash Amin and Nigel Thrift. Oxford, UK: Oxford University Press, 1996. ISBN: 9780198289166.
 
-Loebis, Lienda, and Hubert Schmitz. "[Java Furniture Makers: Winners or Losers from Globalisation?](http://www.ingentaconnect.com/content/routledg/cdip/2005/00000015/F0020003/art00023)" *Development and Practice* 15 (2005).
+Loebis, Lienda, and Hubert Schmitz. "{{% resource_link "188692c6-4ff0-4a65-b5b9-60cf42c341fd" "Java Furniture Makers: Winners or Losers from Globalisation?" %}}" *Development and Practice* 15 (2005).
 
 Bazan, Luiza, and Lizbeth Navas-Aleman. "The Underground Revolution in the Sinos Valley: A Comparison of Upgrading in Global and National Value Chains." In *Local Enterprises in the Global Economy: Issues of Governance and Upgrading*. Edited by Hubert Schmitz. Northampton, MA: Edward Elgar, 2004, pp. 110-139. ISBN: 9781845421922.
 
@@ -337,11 +337,11 @@ Rodrik, Dani. "Tensions between Trade and Domestic Social Arrangements" and "Imp
 
 Jacoby, Sanford. "Risk and the Labor Market: Societal Past as Economic Prologue." In *Sourcebook of Labor Markets: Evolving Structures and Processes*. Edited by Ivar Berg and Arne Kalleberg. New York, NY: Kluwer Academic/Plenum, 2001, pp. 31-60. ISBN: 9780306464539.
 
-Rai, Saritha. "[India Hopes for Growth in Textile Exports](http://www.nytimes.com/2004/07/30/business/india-hopes-for-growth-in-textile-exports.html)." *The New York Times*, July 30, 2004, Section W, p. 1.
+Rai, Saritha. "{{% resource_link "66975839-60fd-4ebb-9b83-3c7dfd954377" "India Hopes for Growth in Textile Exports" %}}." *The New York Times*, July 30, 2004, Section W, p. 1.
 
-Yardley, Jim, and David Barboza. "[Help Wanted: China Finds Itself with a Labor Shortage](http://www.nytimes.com/2005/04/03/international/asia/03china.html)." *The New York Times*, April 3, 2005.
+Yardley, Jim, and David Barboza. "{{% resource_link "e9f30440-7339-45f4-b408-68c87cca2493" "Help Wanted: China Finds Itself with a Labor Shortage" %}}." *The New York Times*, April 3, 2005.
 
-Bradsher, Keith. "[Like Japan in the 1980's, China Poses Big Economic Challenge](http://www.nytimes.com/2004/03/02/business/like-japan-in-the-1980-s-china-poses-big-economic-challenge.html)." *The New York Times*, March 2, 2004, Section C, p. 1.
+Bradsher, Keith. "{{% resource_link "29013d3b-4375-483b-975c-66ad24d3e1ca" "Like Japan in the 1980's, China Poses Big Economic Challenge" %}}." *The New York Times*, March 2, 2004, Section C, p. 1.
 
 Wood, Adrian. "Globalization and the Rise in Labor Market Inequalities." *The Economic Journal* 108 (1998): 1463-1482.
 
@@ -351,7 +351,7 @@ Wood, Adrian. "Globalization and the Rise in Labor Market Inequalities." *The Ec
 What drives improved labor standards: three cases from India, Brazil, and Italy
 {{< tdclose >}}{{< tdopen >}}
 
-Damiani, Octavio. "[Effects on Employment, Wages, and Labor Standards of Non-Traditional Export Crops in Northeast Brazil](http://muse.jhu.edu/journals/latin_american_research_review/related/v038/38.1damiani.html)." *Latin American Research Review* 38 (2003): 83-112.
+Damiani, Octavio. "{{% resource_link "beeff87e-d762-4575-837d-d109d77054ae" "Effects on Employment, Wages, and Labor Standards of Non-Traditional Export Crops in Northeast Brazil" %}}." *Latin American Research Review* 38 (2003): 83-112.
 
 Tewari, Meenu. "Footloose Capital, Intermediation and the Search for the "High Road" in Low-Wage Industries." In *Labour in Global Production Networks in India*. Edited by Anne Posthuma and Dev Nathan. New Delhi: Oxford University, 2010. ISBN: 9780198064138.
 
@@ -369,9 +369,9 @@ Guest speakers
 
 {{< tdclose >}}{{< tdopen >}}
 
-Brown, Jeffrey, Stephen G. Dimmock, Jun-Koo Kang, and Scott Weisbenner. "[Why I Lost My Secretary: The Effect of Endowment Shocks on University Operations](http://www.nber.org/papers/w15861)." NBER Working Paper No. 158861. April 2010.
+Brown, Jeffrey, Stephen G. Dimmock, Jun-Koo Kang, and Scott Weisbenner. "{{% resource_link "f29f25ac-83f4-477b-bb06-b0fe010d4c44" "Why I Lost My Secretary: The Effect of Endowment Shocks on University Operations" %}}." NBER Working Paper No. 158861. April 2010.
 
-Samuels, Bob. "[How America's Universities Became Hedge Funds](http://www.huffingtonpost.com/bob-samuels/how-americas-universities_b_440954.html)." *The Huffington Post*. January 28, 2010.
+Samuels, Bob. "{{% resource_link "fa729aad-f06a-4987-a6fc-7c5fcc3ff5f3" "How America's Universities Became Hedge Funds" %}}." *The Huffington Post*. January 28, 2010.
 
  "Interview with MIT Workers." SEIU, draft publication, 2010.
 
@@ -383,15 +383,15 @@ Samuels, Bob. "[How America's Universities Became Hedge Funds](http://www.huffin
 
 Levinson, Jerome. "Worker Rights and the International Financial Institutions." 2010. (Particular attention to Section IV on page 9 to the end.)
 
-Standing, Guy. "The ILO: An Agency for Globalization?" *Development and Change* 39, no. 3 (2008): 355-384. ([PDF](http://www.unhistory.org/pdf/StandingILO.pdf))
+Standing, Guy. "The ILO: An Agency for Globalization?" *Development and Change* 39, no. 3 (2008): 355-384. ({{% resource_link "8dbf725a-a10d-4751-80cf-434acf915b61" "PDF" %}})
 
 Elliott, Kimberly, and Richard Freeman. *Can Labor Standards Improve under Globalization*? Washington, DC: Institute for International Economics, 2003. ISBN: 9780881323320.
 
 ### Recommended
 
-Schrank, Andrew. "[Labor Standards and Human Resources: A Natural Experiment in an Unlikely Laboratory](http://www.princeton.edu/~ina/gkg/confs/schrank.pdf)." Paper presented at the annual meeting of the American Sociological Association, Montreal, Canada, August 11, 2006.
+Schrank, Andrew. "{{% resource_link "2f9c10ae-3560-4ebc-a61f-846442b7c69d" "Labor Standards and Human Resources: A Natural Experiment in an Unlikely Laboratory" %}}." Paper presented at the annual meeting of the American Sociological Association, Montreal, Canada, August 11, 2006.
 
-Piore, Michael. "Rethinking Mexico's Labor Standards in a Global Economy." Department of Economics, MIT, 2004. ( [PDF](https://economics.mit.edu/sites/default/files/inline-files/Rethinking%20Mexicos%20Labor%20Standards%20in%20a%20Global%20Eco.pdf))
+Piore, Michael. "Rethinking Mexico's Labor Standards in a Global Economy." Department of Economics, MIT, 2004. ( {{% resource_link "d1135834-39aa-4f9c-805b-47114f8efadf" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
@@ -401,13 +401,13 @@ Foreign direct investment: Domestic outcomes and dilemmas
 
 **Assignment 2 due**
 
-Hanson, Gordon. "Should Countries Promote Foreign Direct Investment?" *G-24 Discussion Paper Series*. UNCTAD (United Nations Conference on Trade and Development), 2001. ([PDF](https://core.ac.uk/download/pdf/7043195.pdf))
+Hanson, Gordon. "Should Countries Promote Foreign Direct Investment?" *G-24 Discussion Paper Series*. UNCTAD (United Nations Conference on Trade and Development), 2001. ({{% resource_link "25dbefaf-60e2-40cf-ab11-ba8d337a7887" "PDF" %}})
 
-Tewari, Meenu. "[Adjustments in India’s Textile and Apparel Industry: Reworking Historical Legacies in a Post-MFA World](https://journals.sagepub.com/doi/pdf/10.1068/a38279)." *Environment and Planning A* 38, no. 12 (2006): 2325-2344.
+Tewari, Meenu. "{{% resource_link "330d878c-9ae0-4067-9bce-d9393465b1b8" "Adjustments in India’s Textile and Apparel Industry: Reworking Historical Legacies in a Post-MFA World" %}}." *Environment and Planning A* 38, no. 12 (2006): 2325-2344.
 
 ### Recommended
 
-Tendler, Judith. "The Economic Wars Between the States." Working Paper Series, MIT/BNB project (Banco do Nordeste – Northeast Brazilian Development Bank), 2000. ([PDF](http://www.oecd.org/dataoecd/44/17/2489851.pdf))
+Tendler, Judith. "The Economic Wars Between the States." Working Paper Series, MIT/BNB project (Banco do Nordeste – Northeast Brazilian Development Bank), 2000. ({{% resource_link "af615a65-242c-4231-bacc-d10ecd42a4c7" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
@@ -431,9 +431,9 @@ O’Rourke, Dara. "Monitoring the Monitors: A Critique of PricewaterhouseCoopers
 
 Seidman, Gay. "Citizens, Markets, and Transnational Labor Activism", "Labor Rights as Human Rights: Regulation in the Context of a ‘Thinned" National State," "Constructing a Culture of Compliance in Guatemala," "Citizenship at Work"—in chapters 1, 2, 5, and 6 in: *Beyond the Boycott: Labor Rights, Human Rights, and Transnational activism*. New York, NY: Russell Sage Foundation, 2007. pp. 1-14; 15-46, 102-131, 132-144. Rest optional. ISBN: 9780871547620.
 
-Greenhouse, Steven. "[M.I.T. Report Says Global Accounting Firm Overlooks Factory Abuses](http://nature.berkeley.edu/orourke/media/nyt-pwc.html)." *The New York Times*, September 28, 2000.
+Greenhouse, Steven. "{{% resource_link "200f2754-a31f-42b6-b167-ec242bcb4ad7" "M.I.T. Report Says Global Accounting Firm Overlooks Factory Abuses" %}}." *The New York Times*, September 28, 2000.
 
-———. "[Nike Shoe Plant in Vietnam is Called Unsafe for Workers](http://nature.berkeley.edu/orourke/media/nyt-97.html)." *The New York Times*, November 8, 1997.
+———. "{{% resource_link "3eb0d556-4fa9-42dc-837f-b03c6865a62a" "Nike Shoe Plant in Vietnam is Called Unsafe for Workers" %}}." *The New York Times*, November 8, 1997.
 
 Foster, Lauren and Alexandra Harney. "Why Ethical Sourcing Means Show and Tell." *Financial Times*, April 22 2005. Comment and Analysis p. 17.
 
@@ -467,9 +467,9 @@ Locke, Richard M. "Industrial Adjustment and Industrial Relations in the Automob
 
 Beckman, Bjorn. "Trade Unions, Institutional Reform, and Democracy: Nigerian Experiences with South African and Ugandan Comparisons." In Transition: Critical Perspectives on Southern Africa, no. 48. 2002. (A revised version published in Changing continuities: The Local Politics of Democratisation in Developing Countries. Edited by John Harris, Kristian Stokke, and Olle Tornquist. \[London: Palgrave, 2004\]).
 
-Fung, Archon, Dara O’Rourke, and Charles Sabel. "[Realizing Labor Standards](http://bostonreview.net/archives/BR26.1/fung.html)." 26, no. 1 (February / March 2001): 4-10.
+Fung, Archon, Dara O’Rourke, and Charles Sabel. "{{% resource_link "e786782e-0882-454f-b284-540f3ec9532b" "Realizing Labor Standards" %}}." 26, no. 1 (February / March 2001): 4-10.
 
-Sabel, Charles, Dara O'Rourke, and Archon Fung, Archon. "[Ratcheting Labor Standards: Regulation for Continuous Improvement in the Global Workplace](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=253833)." (May 2, 2000). *KSG Working Paper No. 00-010; Columbia Law and Economic Working Paper No*. 185; Columbia Law School\_, Pub. Law Research Paper No\_. 01-21.
+Sabel, Charles, Dara O'Rourke, and Archon Fung, Archon. "{{% resource_link "0cde2eb3-8b20-46e3-b6c2-f4060d2f5e58" "Ratcheting Labor Standards: Regulation for Continuous Improvement in the Global Workplace" %}}." (May 2, 2000). *KSG Working Paper No. 00-010; Columbia Law and Economic Working Paper No*. 185; Columbia Law School\_, Pub. Law Research Paper No\_. 01-21.
 
 Murillo, Victoria, and Andrew Schrank. "With a Little Help from my Friends: Partisan Politics, Transnational Alliances, and Labor Rights in Latin America." *Comparative Political Studies* 38 (October 2005): 971 - 999.
 
